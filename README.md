@@ -1,6 +1,6 @@
 # itime: mockable time package
 
-[![GoDoc](https://godoc.org/github.com/shibukawa/itime?status.svg)](https://godoc.org/github.com/shibukawa/itime)
+[![GoDoc](https://godoc.org/go.pyspa.org/itime?status.svg)](https://godoc.org/go.pyspa.org/itime)
 
 This package provides go's time package compatible interface and its mock.
 
@@ -53,3 +53,7 @@ func timeTest(ctx context.Context, mock bool) {
 ## License
 
 Apache 2 license
+
+## Author
+
+Yoshiki Shibukawa

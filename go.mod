@@ -1,4 +1,4 @@
-module github.com/shibukawa/itime
+module go.pyspa.org/itime
 
 go 1.12
 

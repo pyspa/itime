@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/shibukawa/itime"
+	"go.pyspa.org/itime"
 )
 
 func ExampleNew() {
